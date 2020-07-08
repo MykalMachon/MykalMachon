@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on a [creating a better DX for shopify theme development](https://github.com/MykalMachon/Deadsimple-shopify)
 - 🌱 I'm currently learning serverless functions with Google Cloud Platform & Testing with Cypress.io
-- 📫 You can email me @ [mykal@tinybox.dev](mailto:mykal@tinybox.dev)
+- 📫 You can reach me at [mykal@tinybox.dev](mailto:mykal@tinybox.dev)
 - 😄 Pronouns: He/Him
 
 <!--
