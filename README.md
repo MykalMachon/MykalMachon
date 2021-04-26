@@ -3,7 +3,7 @@
 I'm a Web Developer / Founder at [@TinyboxSoftware](https://tinybox.dev),
 and an AI Researcher at [the University of the Fraser Valley](https://ufv.ca/research/) 
 
-I'm working with a number of local businesses in BC's Fraser Valley on projects including e-commerce stores, marketing websites, and custom apps. **Whenever I develop something that I use across a number of projects, I try to open-source it here!** For example, [preact-habitat-starter](https://github.com/MykalMachon/preact-habitat-starter) and [smolcart.js](https://github.com/TinyboxSoftware/smolcart.js)
+I'm working with a number of local businesses in BC's Fraser Valley on projects including e-commerce stores, marketing websites, and custom apps. **Whenever I develop something that I use across a number of projects, I try to open-source it here!** For example, [Tinybox-Theme](https://github.com/TinyboxSoftware/Tinybox-Theme) and [smolcart.js](https://github.com/TinyboxSoftware/smolcart.js)
 
 ## Let's Talk 🤙🏻
 
