@@ -1,11 +1,9 @@
 ## Hey, I'm Mykal 👋🏻
 
-I'm a Web Developer / Founder at [@TinyboxSoftware](https://tinybox.dev),
-and an AI Researcher at [the University of the Fraser Valley](https://ufv.ca/research/) 
+Im a Software Developer, currently working as a Systems Analyst at [UFV](https://ufv.ca) during the week, and [Tinybox](https://tinybox.dev) on weekends.
 
-I'm working with a number of local businesses in BC's Fraser Valley on projects including e-commerce stores, marketing websites, and custom apps. **Whenever I develop something that I use across a number of projects, I try to open-source it here!** For example, [Tinybox-Theme](https://github.com/TinyboxSoftware/Tinybox-Theme) and [smolcart.js](https://github.com/TinyboxSoftware/smolcart.js)
+- 🎮 I stream while programming & playing games [on twitch](https://twitch.tv/MykalCodes) occasionally
+- 👨🏻‍💻 I release open-source tools [here](https://github.com/MykalMachon?tab=repositories) and on the [Tinybox github account](https://github.com/TinyboxSoftware)  
 
-## Let's Talk 🤙🏻
 
-- 🐦 DM me on twitter [@MykalMachon](https://twitter.com/mykalmachon)
-- 📫 Send me an email [mykal@tinybox.dev](mailto:mykal@tinybox.dev)
+[Twitter](https://twitter.com/mykalmachon) | [Email](mailto:mykal@tinybox.dev) | [Website](https://mykalmachon.dev)
