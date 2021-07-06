@@ -8,6 +8,6 @@ Im a Software Developer, currently working as a Systems Analyst at [UFV](https:/
 
 [Twitter](https://twitter.com/mykalmachon) | [Email](mailto:mykal@tinybox.dev) | [Website](https://mykalmachon.dev)
 
-![Mykal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykalMachon&show_icons=true&theme=dark)
+<!-- ![Mykal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykalMachon&show_icons=true&theme=dark) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MykalMachon&layout=compact&theme=dark)
