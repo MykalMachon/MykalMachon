@@ -7,5 +7,3 @@ Hey, I'm Mykal 👋 (aka: mykal.codes, or MykalMachon) and I work as a Systems A
 
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
