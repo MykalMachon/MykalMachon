@@ -5,7 +5,7 @@ Hey, I'm Mykal 👋 (aka: mykal.codes, or MykalMachon) and I work as a Systems A
 - [My Work Experience](https://timeline.mykal.codes)
 - [My Freelancing Site](https://tinybox.dev)
 
-
+## Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/arcanis/arcanis/pull/1) in [arcanis/arcanis](https://github.com/arcanis/arcanis)
 2. ❌ Closed PR [#360](https://github.com/vinitshahdeo/inspirational-quotes/pull/360) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
