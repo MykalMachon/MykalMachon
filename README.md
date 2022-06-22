@@ -6,7 +6,9 @@ Hey, I'm Mykal 👋 (aka: mykal.codes, or MykalMachon) and I work as a Systems A
 - [My Freelancing Site](https://tinybox.dev)
 
 
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 <!--
 **MykalMachon/MykalMachon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
