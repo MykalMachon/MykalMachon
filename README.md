@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❌ Closed PR [#1](https://github.com/arcanis/arcanis/pull/1) in [arcanis/arcanis](https://github.com/arcanis/arcanis)
-4. ❌ Closed PR [#360](https://github.com/vinitshahdeo/inspirational-quotes/pull/360) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-5. 🗣 Commented on [#4](https://github.com/MykalMachon/Mykal.Codes/issues/4) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+1. ❗️ Opened issue [#1](https://github.com/MykalMachon/ImageGenerator/issues/1) in [MykalMachon/ImageGenerator](https://github.com/MykalMachon/ImageGenerator)
+2. 🗣 Commented on [#4](https://github.com/MykalMachon/Mykal.Codes/issues/4) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+3. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. ❌ Closed PR [#1](https://github.com/arcanis/arcanis/pull/1) in [arcanis/arcanis](https://github.com/arcanis/arcanis)
 <!--END_SECTION:activity-->
