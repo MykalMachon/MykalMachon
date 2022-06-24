@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/MykalMachon/ImageGenerator/issues/1) in [MykalMachon/ImageGenerator](https://github.com/MykalMachon/ImageGenerator)
-2. 🗣 Commented on [#4](https://github.com/MykalMachon/Mykal.Codes/issues/4) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
-3. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. ❌ Closed PR [#1](https://github.com/arcanis/arcanis/pull/1) in [arcanis/arcanis](https://github.com/arcanis/arcanis)
+1. 🎉 Merged PR [#4](https://github.com/MykalMachon/Mykal.Codes/pull/4) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+2. 🗣 Commented on [#8](https://github.com/MykalMachon/Mykal.Codes/issues/8) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+3. 🗣 Commented on [#7](https://github.com/MykalMachon/Mykal.Codes/issues/7) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+4. ❗️ Opened issue [#6](https://github.com/MykalMachon/Mykal.Codes/issues/6) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+5. ❗️ Opened issue [#5](https://github.com/MykalMachon/Mykal.Codes/issues/5) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
 <!--END_SECTION:activity-->
