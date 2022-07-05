@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/MykalMachon/Mykal.Codes/issues/19) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
-2. 🎉 Merged PR [#18](https://github.com/MykalMachon/Mykal.Codes/pull/18) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
-3. ❗️ Closed issue [#15](https://github.com/MykalMachon/Mykal.Codes/issues/15) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
-4. ❗️ Closed issue [#11](https://github.com/MykalMachon/Mykal.Codes/issues/11) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
-5. 💪 Opened PR [#18](https://github.com/MykalMachon/Mykal.Codes/pull/18) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+1. 🗣 Commented on [#2](https://github.com/vandie/mikevdv-dot-dev-comments/issues/2) in [vandie/mikevdv-dot-dev-comments](https://github.com/vandie/mikevdv-dot-dev-comments)
+2. ❗️ Opened issue [#19](https://github.com/MykalMachon/Mykal.Codes/issues/19) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+3. 🎉 Merged PR [#18](https://github.com/MykalMachon/Mykal.Codes/pull/18) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+4. ❗️ Closed issue [#15](https://github.com/MykalMachon/Mykal.Codes/issues/15) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
+5. ❗️ Closed issue [#11](https://github.com/MykalMachon/Mykal.Codes/issues/11) in [MykalMachon/Mykal.Codes](https://github.com/MykalMachon/Mykal.Codes)
 <!--END_SECTION:activity-->
