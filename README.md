@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/MykalMachon/mykal.codes/pull/21) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 💪 Opened PR [#21](https://github.com/MykalMachon/mykal.codes/pull/21) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🗣 Commented on [#20](https://github.com/MykalMachon/mykal.codes/issues/20) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 💪 Opened PR [#20](https://github.com/MykalMachon/mykal.codes/pull/20) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🗣 Commented on [#4845](https://github.com/netlify/cli/issues/4845) in [netlify/cli](https://github.com/netlify/cli)
+1. ❌ Closed PR [#20](https://github.com/MykalMachon/mykal.codes/pull/20) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. ❗️ Opened issue [#22](https://github.com/MykalMachon/mykal.codes/issues/22) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🗣 Commented on [#14](https://github.com/MykalMachon/mykal.codes/issues/14) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🎉 Merged PR [#21](https://github.com/MykalMachon/mykal.codes/pull/21) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 💪 Opened PR [#21](https://github.com/MykalMachon/mykal.codes/pull/21) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
