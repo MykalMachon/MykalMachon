@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/MykalMachon/Caesar/issues/2) in [MykalMachon/Caesar](https://github.com/MykalMachon/Caesar)
-2. ❌ Closed PR [#20](https://github.com/MykalMachon/mykal.codes/pull/20) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. ❗️ Opened issue [#22](https://github.com/MykalMachon/mykal.codes/issues/22) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🗣 Commented on [#14](https://github.com/MykalMachon/mykal.codes/issues/14) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#21](https://github.com/MykalMachon/mykal.codes/pull/21) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#23](https://github.com/MykalMachon/mykal.codes/pull/23) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. ❗️ Closed issue [#22](https://github.com/MykalMachon/mykal.codes/issues/22) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 💪 Opened PR [#23](https://github.com/MykalMachon/mykal.codes/pull/23) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. ❗️ Opened issue [#2](https://github.com/MykalMachon/Caesar/issues/2) in [MykalMachon/Caesar](https://github.com/MykalMachon/Caesar)
+5. ❌ Closed PR [#20](https://github.com/MykalMachon/mykal.codes/pull/20) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
