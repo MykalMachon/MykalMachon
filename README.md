@@ -10,9 +10,9 @@
 ### Recent Activity ✨
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4730](https://github.com/withastro/astro/issues/4730) in [withastro/astro](https://github.com/withastro/astro)
-2. ❗️ Opened issue [#30](https://github.com/MykalMachon/mykal.codes/issues/30) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🎉 Merged PR [#29](https://github.com/MykalMachon/mykal.codes/pull/29) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 💪 Opened PR [#29](https://github.com/MykalMachon/mykal.codes/pull/29) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#28](https://github.com/MykalMachon/mykal.codes/pull/28) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🗣 Commented on [#31](https://github.com/MykalMachon/mykal.codes/issues/31) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 🗣 Commented on [#4730](https://github.com/withastro/astro/issues/4730) in [withastro/astro](https://github.com/withastro/astro)
+3. ❗️ Opened issue [#30](https://github.com/MykalMachon/mykal.codes/issues/30) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🎉 Merged PR [#29](https://github.com/MykalMachon/mykal.codes/pull/29) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 💪 Opened PR [#29](https://github.com/MykalMachon/mykal.codes/pull/29) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
