@@ -4,9 +4,9 @@
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/wakatime/wakaq/issues/6) in [wakatime/wakaq](https://github.com/wakatime/wakaq)
-2. 🎉 Merged PR [#37](https://github.com/MykalMachon/mykal.codes/pull/37) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 💪 Opened PR [#37](https://github.com/MykalMachon/mykal.codes/pull/37) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🎉 Merged PR [#36](https://github.com/MykalMachon/mykal.codes/pull/36) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🗣 Commented on [#36](https://github.com/MykalMachon/mykal.codes/issues/36) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#38](https://github.com/MykalMachon/mykal.codes/pull/38) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#38](https://github.com/MykalMachon/mykal.codes/pull/38) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. ❗️ Opened issue [#6](https://github.com/wakatime/wakaq/issues/6) in [wakatime/wakaq](https://github.com/wakatime/wakaq)
+4. 🎉 Merged PR [#37](https://github.com/MykalMachon/mykal.codes/pull/37) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 💪 Opened PR [#37](https://github.com/MykalMachon/mykal.codes/pull/37) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
