@@ -1,5 +1,7 @@
 ## Hey, I'm Mykal 👋 
-(aka: mykal.codes, or MykalMachon) I work as a Systems Analyst at UFV during the week, and as a web-dev freelancer on the weekends. I work with a wide range of tech but it's always in the pursuit of building things that interest me. Currently I work a lot with Python and Node.js (and Typescript, of course) 
+(aka: mykal.codes, or MykalMachon) I work as a Systems Analyst at UFV during the week, and as a web-dev freelancer on the weekends. I work with a wide range of tech but it's always in the pursuit of building things that interest me. 
+
+I currently work in the browser a lot, but on the server side I'm split between Python and Node.js; I'm also learning Go slowly but surely.
 
 ### Recent Activity 🚀
 
