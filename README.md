@@ -6,9 +6,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/MykalMachon/mykal.codes/pull/40) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. ❗️ Opened issue [#6](https://github.com/MykalMachon/QuickCrypt/issues/6) in [MykalMachon/QuickCrypt](https://github.com/MykalMachon/QuickCrypt)
-3. 🗣 Commented on [#4845](https://github.com/netlify/cli/issues/4845) in [netlify/cli](https://github.com/netlify/cli)
-4. 🎉 Merged PR [#39](https://github.com/MykalMachon/mykal.codes/pull/39) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 💪 Opened PR [#39](https://github.com/MykalMachon/mykal.codes/pull/39) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#42](https://github.com/MykalMachon/mykal.codes/pull/42) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#42](https://github.com/MykalMachon/mykal.codes/pull/42) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#41](https://github.com/MykalMachon/mykal.codes/pull/41) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#41](https://github.com/MykalMachon/mykal.codes/pull/41) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#40](https://github.com/MykalMachon/mykal.codes/pull/40) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
