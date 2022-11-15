@@ -6,9 +6,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MykalMachon/mykal.coffee/pull/1) in [MykalMachon/mykal.coffee](https://github.com/MykalMachon/mykal.coffee)
-2. 🎉 Merged PR [#43](https://github.com/MykalMachon/mykal.codes/pull/43) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 💪 Opened PR [#43](https://github.com/MykalMachon/mykal.codes/pull/43) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🎉 Merged PR [#42](https://github.com/MykalMachon/mykal.codes/pull/42) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 💪 Opened PR [#42](https://github.com/MykalMachon/mykal.codes/pull/42) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 💪 Opened PR [#1](https://github.com/MykalMachon/MIT-SE/pull/1) in [MykalMachon/MIT-SE](https://github.com/MykalMachon/MIT-SE)
+2. 💪 Opened PR [#1](https://github.com/MykalMachon/mykal.coffee/pull/1) in [MykalMachon/mykal.coffee](https://github.com/MykalMachon/mykal.coffee)
+3. 🎉 Merged PR [#43](https://github.com/MykalMachon/mykal.codes/pull/43) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#43](https://github.com/MykalMachon/mykal.codes/pull/43) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#42](https://github.com/MykalMachon/mykal.codes/pull/42) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
