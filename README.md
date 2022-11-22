@@ -6,9 +6,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1671](https://github.com/umami-software/umami/issues/1671) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🎉 Merged PR [#1](https://github.com/MykalMachon/MIT-SE/pull/1) in [MykalMachon/MIT-SE](https://github.com/MykalMachon/MIT-SE)
-3. 💪 Opened PR [#1](https://github.com/MykalMachon/MIT-SE/pull/1) in [MykalMachon/MIT-SE](https://github.com/MykalMachon/MIT-SE)
-4. 💪 Opened PR [#1](https://github.com/MykalMachon/mykal.coffee/pull/1) in [MykalMachon/mykal.coffee](https://github.com/MykalMachon/mykal.coffee)
-5. 🎉 Merged PR [#43](https://github.com/MykalMachon/mykal.codes/pull/43) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🗣 Commented on [#1671](https://github.com/umami-software/umami/issues/1671) in [umami-software/umami](https://github.com/umami-software/umami)
+2. 🗣 Commented on [#107](https://github.com/mr-smithers-excellent/docker-build-push/issues/107) in [mr-smithers-excellent/docker-build-push](https://github.com/mr-smithers-excellent/docker-build-push)
+3. 🗣 Commented on [#1671](https://github.com/umami-software/umami/issues/1671) in [umami-software/umami](https://github.com/umami-software/umami)
+4. ❗️ Opened issue [#1671](https://github.com/umami-software/umami/issues/1671) in [umami-software/umami](https://github.com/umami-software/umami)
+5. 🎉 Merged PR [#1](https://github.com/MykalMachon/MIT-SE/pull/1) in [MykalMachon/MIT-SE](https://github.com/MykalMachon/MIT-SE)
 <!--END_SECTION:activity-->
