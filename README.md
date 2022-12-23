@@ -6,9 +6,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/MykalMachon/mykal.codes/issues/51) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. ❗️ Closed issue [#6](https://github.com/MykalMachon/mykal.codes/issues/6) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. ❗️ Closed issue [#14](https://github.com/MykalMachon/mykal.codes/issues/14) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. ❗️ Closed issue [#34](https://github.com/MykalMachon/mykal.codes/issues/34) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#13](https://github.com/MykalMachon/Safehold/pull/13) in [MykalMachon/Safehold](https://github.com/MykalMachon/Safehold)
+1. 🎉 Merged PR [#52](https://github.com/MykalMachon/mykal.codes/pull/52) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#52](https://github.com/MykalMachon/mykal.codes/pull/52) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. ❗️ Opened issue [#51](https://github.com/MykalMachon/mykal.codes/issues/51) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. ❗️ Closed issue [#6](https://github.com/MykalMachon/mykal.codes/issues/6) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. ❗️ Closed issue [#14](https://github.com/MykalMachon/mykal.codes/issues/14) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
