@@ -3,6 +3,10 @@
 
 I currently work in the browser a lot, but on the server side I'm split between Python and Node.js; I'm also learning Go slowly but surely.
 
+### Socials 
+- <a rel="me" href="https://indieweb.social/@mykalmachon">Mastodon</a>
+- <a rel="me" href="https://mykal.codes/">Digital Garden & Website</a>
+
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
