@@ -10,9 +10,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/MykalMachon/mykal.codes/issues/31) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. ❗️ Closed issue [#24](https://github.com/MykalMachon/mykal.codes/issues/24) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. ❗️ Closed issue [#8](https://github.com/MykalMachon/mykal.codes/issues/8) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🗣 Commented on [#1671](https://github.com/umami-software/umami/issues/1671) in [umami-software/umami](https://github.com/umami-software/umami)
-5. 🎉 Merged PR [#68](https://github.com/MykalMachon/mykal.codes/pull/68) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#70](https://github.com/MykalMachon/mykal.codes/pull/70) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#70](https://github.com/MykalMachon/mykal.codes/pull/70) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#69](https://github.com/MykalMachon/mykal.codes/pull/69) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#69](https://github.com/MykalMachon/mykal.codes/pull/69) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. ❗️ Closed issue [#31](https://github.com/MykalMachon/mykal.codes/issues/31) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
