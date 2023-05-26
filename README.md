@@ -10,9 +10,9 @@ I currently work in the browser a lot, but on the server side I'm split between 
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/MykalMachon/mykal.codes/pull/77) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 💪 Opened PR [#77](https://github.com/MykalMachon/mykal.codes/pull/77) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🎉 Merged PR [#76](https://github.com/MykalMachon/mykal.codes/pull/76) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 💪 Opened PR [#76](https://github.com/MykalMachon/mykal.codes/pull/76) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#75](https://github.com/MykalMachon/mykal.codes/pull/75) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#78](https://github.com/MykalMachon/mykal.codes/pull/78) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#78](https://github.com/MykalMachon/mykal.codes/pull/78) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#77](https://github.com/MykalMachon/mykal.codes/pull/77) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#77](https://github.com/MykalMachon/mykal.codes/pull/77) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#76](https://github.com/MykalMachon/mykal.codes/pull/76) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
