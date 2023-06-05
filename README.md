@@ -1,11 +1,9 @@
-## Hey, I'm Mykal 👋 
-(aka: mykal.codes, or MykalMachon) I work as a Systems Analyst at UFV during the week, and as a web-dev freelancer on the weekends. I work with a wide range of tech but it's always in the pursuit of building things that interest me. 
+# Hey, I'm Mykal 👋
 
-I currently work in the browser a lot, but on the server side I'm split between Python and Node.js; I'm also learning Go slowly but surely.
+I'm a `Systems Analyst II` working on the Application Services Team at [UFV](https://ufv.ca). 
+I help build, maintain, and support a whole bunch of our web applications, integration systems, and internal tools for students, staff, and faculty.
 
-### Socials 
-- <a rel="me" href="https://indieweb.social/@mykalmachon">Mastodon</a>
-- <a rel="me" href="https://mykal.codes/">Digital Garden & Website</a>
+On the weekend, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
 
 ### Recent Activity 🚀
 
