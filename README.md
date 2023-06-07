@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/UFV-ITS/MyUFV-Design-System/issues/6) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-2. 🎉 Merged PR [#5](https://github.com/UFV-ITS/MyUFV-Design-System/pull/5) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-3. 💪 Opened PR [#5](https://github.com/UFV-ITS/MyUFV-Design-System/pull/5) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-4. 🎉 Merged PR [#4](https://github.com/UFV-ITS/MyUFV-Design-System/pull/4) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-5. 💪 Opened PR [#4](https://github.com/UFV-ITS/MyUFV-Design-System/pull/4) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+1. 🎉 Merged PR [#79](https://github.com/MykalMachon/mykal.codes/pull/79) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#79](https://github.com/MykalMachon/mykal.codes/pull/79) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. ❗ Opened issue [#6](https://github.com/UFV-ITS/MyUFV-Design-System/issues/6) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+4. 🎉 Merged PR [#5](https://github.com/UFV-ITS/MyUFV-Design-System/pull/5) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+5. 💪 Opened PR [#5](https://github.com/UFV-ITS/MyUFV-Design-System/pull/5) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
 <!--END_SECTION:activity-->
