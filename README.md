@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/UFV-ITS/MyUFV-Design-System/pull/8) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-2. 💪 Opened PR [#8](https://github.com/UFV-ITS/MyUFV-Design-System/pull/8) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-3. 🔒 Closed issue [#6](https://github.com/UFV-ITS/MyUFV-Design-System/issues/6) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-4. 🎉 Merged PR [#7](https://github.com/UFV-ITS/MyUFV-Design-System/pull/7) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-5. 💪 Opened PR [#7](https://github.com/UFV-ITS/MyUFV-Design-System/pull/7) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+1. 🎉 Merged PR [#10](https://github.com/UFV-ITS/MyUFV-Design-System/pull/10) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+2. 💪 Opened PR [#10](https://github.com/UFV-ITS/MyUFV-Design-System/pull/10) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+3. 💪 Opened PR [#9](https://github.com/UFV-ITS/MyUFV-Design-System/pull/9) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+4. 🎉 Merged PR [#9](https://github.com/UFV-ITS/MyUFV-Design-System/pull/9) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+5. 🎉 Merged PR [#8](https://github.com/UFV-ITS/MyUFV-Design-System/pull/8) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
 <!--END_SECTION:activity-->
