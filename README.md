@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/MykalMachon/cupid/pull/12) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
-2. 💪 Opened PR [#12](https://github.com/MykalMachon/cupid/pull/12) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
-3. 🎉 Merged PR [#11](https://github.com/MykalMachon/cupid/pull/11) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
-4. 💪 Opened PR [#11](https://github.com/MykalMachon/cupid/pull/11) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
-5. 🎉 Merged PR [#10](https://github.com/MykalMachon/cupid/pull/10) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
+1. 🎉 Merged PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+2. 💪 Opened PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+3. 🎉 Merged PR [#2](https://github.com/MykalMachon/AzureTodo/pull/2) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+4. 💪 Opened PR [#2](https://github.com/MykalMachon/AzureTodo/pull/2) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+5. 🎉 Merged PR [#12](https://github.com/MykalMachon/cupid/pull/12) in [MykalMachon/cupid](https://github.com/MykalMachon/cupid)
 <!--END_SECTION:activity-->
