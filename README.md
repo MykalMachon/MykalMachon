@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/MykalMachon/AzureTodo/issues/4) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
-2. 🎉 Merged PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
-3. 💪 Opened PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
-4. 🎉 Merged PR [#2](https://github.com/MykalMachon/AzureTodo/pull/2) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
-5. 💪 Opened PR [#2](https://github.com/MykalMachon/AzureTodo/pull/2) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+1. 🎉 Merged PR [#12](https://github.com/UFV-ITS/MyUFV-Design-System/pull/12) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+2. 💪 Opened PR [#12](https://github.com/UFV-ITS/MyUFV-Design-System/pull/12) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+3. ❗ Opened issue [#4](https://github.com/MykalMachon/AzureTodo/issues/4) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+4. 🎉 Merged PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
+5. 💪 Opened PR [#3](https://github.com/MykalMachon/AzureTodo/pull/3) in [MykalMachon/AzureTodo](https://github.com/MykalMachon/AzureTodo)
 <!--END_SECTION:activity-->
