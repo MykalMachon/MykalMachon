@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1698046283) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
-2. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1698012598) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
-3. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1697983927) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
-4. ❗ Opened issue [#8](https://github.com/MykalMachon/cabin/issues/8) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
-5. ❗ Opened issue [#7](https://github.com/MykalMachon/cabin/issues/7) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
+1. 🔒 Closed issue [#1](https://github.com/MykalMachon/railway-plausible/issues/1) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
+2. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1704387251) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
+3. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1698046283) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
+4. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1698012598) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
+5. 🗣 Commented on [#1](https://github.com/MykalMachon/railway-plausible/issues/1#issuecomment-1697983927) in [MykalMachon/railway-plausible](https://github.com/MykalMachon/railway-plausible)
 <!--END_SECTION:activity-->
