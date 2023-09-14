@@ -8,9 +8,9 @@ On the weekend, I take on freelance full-stack web-dev work through [Tinybox](ht
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/MykalMachon/cabin/issues/7) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
-2. 🗣 Commented on [#7](https://github.com/MykalMachon/cabin/issues/7#issuecomment-1711087629) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
-3. 🔒 Closed issue [#8](https://github.com/MykalMachon/cabin/issues/8) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
-4. 🗣 Commented on [#8](https://github.com/MykalMachon/cabin/issues/8#issuecomment-1711087042) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
-5. 🗣 Commented on [#433](https://github.com/railwayapp/templates/issues/433#issuecomment-1707632018) in [railwayapp/templates](https://github.com/railwayapp/templates)
+1. 🎉 Merged PR [#86](https://github.com/MykalMachon/mykal.codes/pull/86) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#86](https://github.com/MykalMachon/mykal.codes/pull/86) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🔒 Closed issue [#7](https://github.com/MykalMachon/cabin/issues/7) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
+4. 🗣 Commented on [#7](https://github.com/MykalMachon/cabin/issues/7#issuecomment-1711087629) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
+5. 🔒 Closed issue [#8](https://github.com/MykalMachon/cabin/issues/8) in [MykalMachon/cabin](https://github.com/MykalMachon/cabin)
 <!--END_SECTION:activity-->
