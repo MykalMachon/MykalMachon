@@ -3,7 +3,7 @@
 I'm a `Systems Analyst II` working on the Application Services Team at [UFV](https://ufv.ca). 
 I help build, maintain, and support a whole bunch of our web applications, integrations, and internal tools for students, staff, and faculty.
 
-On the weekend, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
+On weekends, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
 
 ### Recent Activity 🚀
 
