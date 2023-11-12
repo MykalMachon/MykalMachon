@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ### Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/MykalMachon/chat.mykal.codes/issues/2) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
-2. 🎉 Merged PR [#1](https://github.com/MykalMachon/actions-testing-CI/pull/1) in [MykalMachon/actions-testing-CI](https://github.com/MykalMachon/actions-testing-CI)
-3. 💪 Opened PR [#1](https://github.com/MykalMachon/actions-testing-CI/pull/1) in [MykalMachon/actions-testing-CI](https://github.com/MykalMachon/actions-testing-CI)
-4. 💪 Opened PR [#3](https://github.com/MykalMachon/actions-hello/pull/3) in [MykalMachon/actions-hello](https://github.com/MykalMachon/actions-hello)
-5. 🎉 Merged PR [#2](https://github.com/MykalMachon/actions-hello/pull/2) in [MykalMachon/actions-hello](https://github.com/MykalMachon/actions-hello)
+1. 🔒 Closed issue [#1](https://github.com/railwayapp-templates/plausible/issues/1) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+2. 🗣 Commented on [#1](https://github.com/railwayapp-templates/plausible/issues/1#issuecomment-1807053775) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+3. ❗ Opened issue [#2](https://github.com/railwayapp-templates/plausible/issues/2) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+4. 🗣 Commented on [#1](https://github.com/railwayapp-templates/plausible/issues/1#issuecomment-1807047925) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+5. 🗣 Commented on [#1](https://github.com/railwayapp-templates/plausible/issues/1#issuecomment-1807037103) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
 <!--END_SECTION:activity-->
