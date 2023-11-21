@@ -5,7 +5,7 @@ I help build, maintain, and support a whole bunch of our web applications, integ
 
 On weekends, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
 
-### Recent Activity 🚀
+## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#14](https://github.com/UFV-ITS/MyUFV-Design-System/pull/14) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
