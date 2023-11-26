@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/MykalMachon/mykal.codes/issues/88#issuecomment-1826064147) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 🔒 Closed issue [#88](https://github.com/MykalMachon/mykal.codes/issues/88) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🎉 Merged PR [#89](https://github.com/MykalMachon/mykal.codes/pull/89) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 💪 Opened PR [#89](https://github.com/MykalMachon/mykal.codes/pull/89) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#14](https://github.com/UFV-ITS/MyUFV-Design-System/pull/14) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+1. ❗ Opened issue [#1](https://github.com/MykalMachon/open-copilot/issues/1) in [MykalMachon/open-copilot](https://github.com/MykalMachon/open-copilot)
+2. ❗ Opened issue [#5](https://github.com/railwayapp-templates/plausible/issues/5) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+3. 🗣 Commented on [#88](https://github.com/MykalMachon/mykal.codes/issues/88#issuecomment-1826064147) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🔒 Closed issue [#88](https://github.com/MykalMachon/mykal.codes/issues/88) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#89](https://github.com/MykalMachon/mykal.codes/pull/89) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
