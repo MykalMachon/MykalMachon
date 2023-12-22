@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/MykalMachon/MDChat/pull/19) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-2. 💪 Opened PR [#19](https://github.com/MykalMachon/MDChat/pull/19) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-3. 🎉 Merged PR [#18](https://github.com/MykalMachon/MDChat/pull/18) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-4. 💪 Opened PR [#18](https://github.com/MykalMachon/MDChat/pull/18) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-5. 🎉 Merged PR [#17](https://github.com/MykalMachon/MDChat/pull/17) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+1. 🎉 Merged PR [#20](https://github.com/MykalMachon/MDChat/pull/20) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+2. 💪 Opened PR [#20](https://github.com/MykalMachon/MDChat/pull/20) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+3. 🎉 Merged PR [#19](https://github.com/MykalMachon/MDChat/pull/19) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+4. 💪 Opened PR [#19](https://github.com/MykalMachon/MDChat/pull/19) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+5. 🎉 Merged PR [#18](https://github.com/MykalMachon/MDChat/pull/18) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
 <!--END_SECTION:activity-->
