@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/MykalMachon/MDChat/issues/22) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-2. 🔒 Closed issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. ❗ Opened issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🗣 Commented on [#3](https://github.com/MykalMachon/MDChat/issues/3#issuecomment-1868594310) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-5. 🔒 Closed issue [#3](https://github.com/MykalMachon/MDChat/issues/3) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+1. 🎉 Merged PR [#20](https://github.com/UFV-ITS/MyUFV-Design-System/pull/20) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+2. ❗ Opened issue [#22](https://github.com/MykalMachon/MDChat/issues/22) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
+3. 🔒 Closed issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. ❗ Opened issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🗣 Commented on [#3](https://github.com/MykalMachon/MDChat/issues/3#issuecomment-1868594310) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
 <!--END_SECTION:activity-->
