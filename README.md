@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MykalMachon/actions-custom-js-action/pull/3) in [MykalMachon/actions-custom-js-action](https://github.com/MykalMachon/actions-custom-js-action)
-2. 🎉 Merged PR [#20](https://github.com/UFV-ITS/MyUFV-Design-System/pull/20) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-3. ❗ Opened issue [#22](https://github.com/MykalMachon/MDChat/issues/22) in [MykalMachon/MDChat](https://github.com/MykalMachon/MDChat)
-4. 🔒 Closed issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. ❗ Opened issue [#90](https://github.com/MykalMachon/mykal.codes/issues/90) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. ❗ Opened issue [#93](https://github.com/MykalMachon/mykal.codes/issues/93) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 🎉 Merged PR [#92](https://github.com/MykalMachon/mykal.codes/pull/92) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 💪 Opened PR [#92](https://github.com/MykalMachon/mykal.codes/pull/92) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🎉 Merged PR [#91](https://github.com/MykalMachon/mykal.codes/pull/91) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 💪 Opened PR [#91](https://github.com/MykalMachon/mykal.codes/pull/91) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
