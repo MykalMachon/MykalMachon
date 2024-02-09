@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#93](https://github.com/MykalMachon/mykal.codes/issues/93) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 🎉 Merged PR [#92](https://github.com/MykalMachon/mykal.codes/pull/92) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 💪 Opened PR [#92](https://github.com/MykalMachon/mykal.codes/pull/92) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🎉 Merged PR [#91](https://github.com/MykalMachon/mykal.codes/pull/91) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 💪 Opened PR [#91](https://github.com/MykalMachon/mykal.codes/pull/91) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+2. 💪 Opened PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+3. 🎉 Merged PR [#3](https://github.com/cnorlander/WTFis.NET/pull/3) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+4. 💪 Opened PR [#3](https://github.com/cnorlander/WTFis.NET/pull/3) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+5. 🎉 Merged PR [#2](https://github.com/cnorlander/WTFis.NET/pull/2) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
 <!--END_SECTION:activity-->
