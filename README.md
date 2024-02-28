@@ -16,9 +16,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/MykalMachon/mykal.codes/issues/94) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 🗣 Commented on [#93](https://github.com/MykalMachon/mykal.codes/issues/93#issuecomment-1936221277) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🎉 Merged PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
-4. 💪 Opened PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
-5. 🎉 Merged PR [#3](https://github.com/cnorlander/WTFis.NET/pull/3) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+1. 🗣 Commented on [#6](https://github.com/railwayapp-templates/plausible/issues/6#issuecomment-1968052880) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+2. ❗ Opened issue [#94](https://github.com/MykalMachon/mykal.codes/issues/94) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🗣 Commented on [#93](https://github.com/MykalMachon/mykal.codes/issues/93#issuecomment-1936221277) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🎉 Merged PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
+5. 💪 Opened PR [#4](https://github.com/cnorlander/WTFis.NET/pull/4) in [cnorlander/WTFis.NET](https://github.com/cnorlander/WTFis.NET)
 <!--END_SECTION:activity-->
