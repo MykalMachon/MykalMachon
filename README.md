@@ -16,9 +16,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MykalMachon/shlink-on-railway/issues/1#issuecomment-2000484627) in [MykalMachon/shlink-on-railway](https://github.com/MykalMachon/shlink-on-railway)
-2. 🔒 Closed issue [#1](https://github.com/MykalMachon/shlink-on-railway/issues/1) in [MykalMachon/shlink-on-railway](https://github.com/MykalMachon/shlink-on-railway)
-3. 🗣 Commented on [#7](https://github.com/railwayapp-templates/plausible/issues/7#issuecomment-1998936155) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
-4. 🔒 Closed issue [#7](https://github.com/railwayapp-templates/plausible/issues/7) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
-5. 🎉 Merged PR [#8](https://github.com/railwayapp-templates/plausible/pull/8) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+1. 🎉 Merged PR [#23](https://github.com/UFV-ITS/MyUFV-Design-System/pull/23) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+2. 💪 Opened PR [#23](https://github.com/UFV-ITS/MyUFV-Design-System/pull/23) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+3. 🎉 Merged PR [#22](https://github.com/UFV-ITS/MyUFV-Design-System/pull/22) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+4. 💪 Opened PR [#22](https://github.com/UFV-ITS/MyUFV-Design-System/pull/22) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+5. 🗣 Commented on [#1](https://github.com/MykalMachon/shlink-on-railway/issues/1#issuecomment-2000484627) in [MykalMachon/shlink-on-railway](https://github.com/MykalMachon/shlink-on-railway)
 <!--END_SECTION:activity-->
