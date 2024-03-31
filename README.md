@@ -16,9 +16,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/MykalMachon/mykal.codes/pull/97) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 💪 Opened PR [#97](https://github.com/MykalMachon/mykal.codes/pull/97) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🎉 Merged PR [#23](https://github.com/UFV-ITS/MyUFV-Design-System/pull/23) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-4. 💪 Opened PR [#23](https://github.com/UFV-ITS/MyUFV-Design-System/pull/23) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
-5. 🎉 Merged PR [#22](https://github.com/UFV-ITS/MyUFV-Design-System/pull/22) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+1. 🎉 Merged PR [#98](https://github.com/MykalMachon/mykal.codes/pull/98) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#98](https://github.com/MykalMachon/mykal.codes/pull/98) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#97](https://github.com/MykalMachon/mykal.codes/pull/97) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#97](https://github.com/MykalMachon/mykal.codes/pull/97) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#23](https://github.com/UFV-ITS/MyUFV-Design-System/pull/23) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
 <!--END_SECTION:activity-->
