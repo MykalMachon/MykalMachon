@@ -16,9 +16,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/MykalMachon/mykal.codes/pull/101) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 💪 Opened PR [#101](https://github.com/MykalMachon/mykal.codes/pull/101) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 🗣 Commented on [#33](https://github.com/Islandora-Devops/isle-site-template/issues/33#issuecomment-2062960240) in [Islandora-Devops/isle-site-template](https://github.com/Islandora-Devops/isle-site-template)
-4. ❗ Opened issue [#33](https://github.com/Islandora-Devops/isle-site-template/issues/33) in [Islandora-Devops/isle-site-template](https://github.com/Islandora-Devops/isle-site-template)
-5. 🔒 Closed issue [#94](https://github.com/MykalMachon/mykal.codes/issues/94) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#103](https://github.com/MykalMachon/mykal.codes/pull/103) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#103](https://github.com/MykalMachon/mykal.codes/pull/103) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#102](https://github.com/MykalMachon/mykal.codes/pull/102) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#102](https://github.com/MykalMachon/mykal.codes/pull/102) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 🎉 Merged PR [#101](https://github.com/MykalMachon/mykal.codes/pull/101) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
