@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#333](https://github.com/dotenvx/dotenvx/issues/333) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-2. 🎉 Merged PR [#108](https://github.com/MykalMachon/mykal.codes/pull/108) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 💪 Opened PR [#108](https://github.com/MykalMachon/mykal.codes/pull/108) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 💪 Opened PR [#3797](https://github.com/usememos/memos/pull/3797) in [usememos/memos](https://github.com/usememos/memos)
-5. 🗣 Commented on [#3747](https://github.com/usememos/memos/issues/3747#issuecomment-2278687567) in [usememos/memos](https://github.com/usememos/memos)
+1. 🗣 Commented on [#11](https://github.com/railwayapp-templates/plausible/issues/11#issuecomment-2297753250) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+2. 🔒 Closed issue [#11](https://github.com/railwayapp-templates/plausible/issues/11) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+3. 🗣 Commented on [#13](https://github.com/railwayapp-templates/plausible/issues/13#issuecomment-2297752988) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+4. 🔒 Closed issue [#13](https://github.com/railwayapp-templates/plausible/issues/13) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+5. 🗣 Commented on [#13](https://github.com/railwayapp-templates/plausible/issues/13#issuecomment-2297750758) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
 <!--END_SECTION:activity-->
