@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2302640726) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-2. 🗣 Commented on [#11](https://github.com/railwayapp-templates/plausible/issues/11#issuecomment-2297753250) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
-3. 🔒 Closed issue [#11](https://github.com/railwayapp-templates/plausible/issues/11) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
-4. 🗣 Commented on [#13](https://github.com/railwayapp-templates/plausible/issues/13#issuecomment-2297752988) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
-5. 🔒 Closed issue [#13](https://github.com/railwayapp-templates/plausible/issues/13) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+1. 🗣 Commented on [#5](https://github.com/MykalMachon/chat.mykal.codes/issues/5#issuecomment-2303542003) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+2. 🔒 Closed issue [#5](https://github.com/MykalMachon/chat.mykal.codes/issues/5) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+3. 🗣 Commented on [#3](https://github.com/MykalMachon/chat.mykal.codes/issues/3#issuecomment-2303541522) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+4. 🔒 Closed issue [#3](https://github.com/MykalMachon/chat.mykal.codes/issues/3) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+5. 🎉 Merged PR [#9](https://github.com/MykalMachon/chat.mykal.codes/pull/9) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
 <!--END_SECTION:activity-->
