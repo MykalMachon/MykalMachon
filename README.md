@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2310790219) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-2. 🗣 Commented on [#350](https://github.com/dotenvx/dotenvx/pull/350#issuecomment-2310738992) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-3. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2309350066) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-4. 💪 Opened PR [#350](https://github.com/dotenvx/dotenvx/pull/350) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-5. 🗣 Commented on [#5](https://github.com/MykalMachon/chat.mykal.codes/issues/5#issuecomment-2303542003) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+1. 🎉 Merged PR [#10](https://github.com/MykalMachon/chat.mykal.codes/pull/10) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
+2. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2310790219) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+3. 🗣 Commented on [#350](https://github.com/dotenvx/dotenvx/pull/350#issuecomment-2310738992) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+4. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2309350066) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+5. 💪 Opened PR [#350](https://github.com/dotenvx/dotenvx/pull/350) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
 <!--END_SECTION:activity-->
