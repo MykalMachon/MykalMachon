@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MykalMachon/actions-hello/pull/3) in [MykalMachon/actions-hello](https://github.com/MykalMachon/actions-hello)
-2. 🎉 Merged PR [#10](https://github.com/MykalMachon/chat.mykal.codes/pull/10) in [MykalMachon/chat.mykal.codes](https://github.com/MykalMachon/chat.mykal.codes)
-3. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2310790219) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-4. 🗣 Commented on [#350](https://github.com/dotenvx/dotenvx/pull/350#issuecomment-2310738992) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-5. 🗣 Commented on [#333](https://github.com/dotenvx/dotenvx/issues/333#issuecomment-2309350066) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+1. 🎉 Merged PR [#111](https://github.com/MykalMachon/mykal.codes/pull/111) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#111](https://github.com/MykalMachon/mykal.codes/pull/111) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🔒 Closed issue [#51](https://github.com/MykalMachon/mykal.codes/issues/51) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 🎉 Merged PR [#110](https://github.com/MykalMachon/mykal.codes/pull/110) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. 💪 Opened PR [#110](https://github.com/MykalMachon/mykal.codes/pull/110) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 <!--END_SECTION:activity-->
