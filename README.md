@@ -8,9 +8,9 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/MykalMachon/mykal.codes/pull/112) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-2. 🎉 Merged PR [#111](https://github.com/MykalMachon/mykal.codes/pull/111) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-3. 💪 Opened PR [#111](https://github.com/MykalMachon/mykal.codes/pull/111) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-4. 🔒 Closed issue [#51](https://github.com/MykalMachon/mykal.codes/issues/51) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
-5. 🎉 Merged PR [#110](https://github.com/MykalMachon/mykal.codes/pull/110) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+1. 🎉 Merged PR [#114](https://github.com/MykalMachon/mykal.codes/pull/114) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#114](https://github.com/MykalMachon/mykal.codes/pull/114) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+3. 🎉 Merged PR [#113](https://github.com/MykalMachon/mykal.codes/pull/113) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+4. 💪 Opened PR [#113](https://github.com/MykalMachon/mykal.codes/pull/113) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+5. ❗ Opened issue [#25](https://github.com/denoland/deno-astro-adapter/issues/25) in [denoland/deno-astro-adapter](https://github.com/denoland/deno-astro-adapter)
 <!--END_SECTION:activity-->
