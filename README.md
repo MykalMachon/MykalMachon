@@ -5,6 +5,12 @@ I help build, maintain, and support a whole bunch of our web applications, integ
 
 On weekends, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
 
+## GitHub Stats
+![MykalMachon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykalMachon&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykalMachon&layout=compact&theme=radical)
+
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
