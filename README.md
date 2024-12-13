@@ -8,9 +8,6 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## GitHub Stats
 ![MykalMachon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykalMachon&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykalMachon&layout=compact&theme=radical)
-
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
@@ -20,3 +17,6 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 4. 💪 Opened PR [#1](https://github.com/MykalMachon/observable-nginx/pull/1) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
 5. 💪 Opened PR [#2](https://github.com/MykalMachon/atbots/pull/2) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
 <!--END_SECTION:activity-->
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykalMachon&layout=compact&theme=radical)
