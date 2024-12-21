@@ -11,11 +11,11 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
-2. 💪 Opened PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
-3. 🎉 Merged PR [#1](https://github.com/MykalMachon/observable-nginx/pull/1) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
-4. 💪 Opened PR [#1](https://github.com/MykalMachon/observable-nginx/pull/1) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
-5. 💪 Opened PR [#2](https://github.com/MykalMachon/atbots/pull/2) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
+1. 🗣 Commented on [#25](https://github.com/denoland/deno-astro-adapter/issues/25#issuecomment-2557539622) in [denoland/deno-astro-adapter](https://github.com/denoland/deno-astro-adapter)
+2. 🔒 Closed issue [#25](https://github.com/denoland/deno-astro-adapter/issues/25) in [denoland/deno-astro-adapter](https://github.com/denoland/deno-astro-adapter)
+3. 🎉 Merged PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
+4. 💪 Opened PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
+5. 🎉 Merged PR [#1](https://github.com/MykalMachon/observable-nginx/pull/1) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
 <!--END_SECTION:activity-->
 
 ## Top Languages
