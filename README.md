@@ -11,7 +11,7 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/railwayapp-templates/plausible/issues/5#issuecomment-2558596813) in [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible)
+1. ❗ Opened issue [#18](https://github.com/FerretCode/locomotive/issues/18) in [FerretCode/locomotive](https://github.com/FerretCode/locomotive)
 2. 🗣 Commented on [#25](https://github.com/denoland/deno-astro-adapter/issues/25#issuecomment-2557539622) in [denoland/deno-astro-adapter](https://github.com/denoland/deno-astro-adapter)
 3. 🔒 Closed issue [#25](https://github.com/denoland/deno-astro-adapter/issues/25) in [denoland/deno-astro-adapter](https://github.com/denoland/deno-astro-adapter)
 4. 🎉 Merged PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
