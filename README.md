@@ -11,11 +11,11 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/FerretCode/locomotive/issues/18#issuecomment-2719936325) in [FerretCode/locomotive](https://github.com/FerretCode/locomotive)
-2. 🗣 Commented on [#3](https://github.com/MykalMachon/railway-grafana-stack/issues/3#issuecomment-2709412517) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-3. ❗ Opened issue [#18](https://github.com/FerretCode/locomotive/issues/18) in [FerretCode/locomotive](https://github.com/FerretCode/locomotive)
-4. 🎉 Merged PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
-5. 💪 Opened PR [#2](https://github.com/MykalMachon/observable-nginx/pull/2) in [MykalMachon/observable-nginx](https://github.com/MykalMachon/observable-nginx)
+1. 🗣 Commented on [#8](https://github.com/MykalMachon/railway-grafana-stack/issues/8#issuecomment-2727654044) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+2. 🔒 Closed issue [#8](https://github.com/MykalMachon/railway-grafana-stack/issues/8) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+3. 🎉 Merged PR [#10](https://github.com/MykalMachon/railway-grafana-stack/pull/10) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+4. 💪 Opened PR [#10](https://github.com/MykalMachon/railway-grafana-stack/pull/10) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+5. 🎉 Merged PR [#9](https://github.com/MykalMachon/railway-grafana-stack/pull/9) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
 ## Top Languages
