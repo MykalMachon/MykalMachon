@@ -11,10 +11,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/FerretCode/locomotive/issues/18#issuecomment-2744345384) in [FerretCode/locomotive](https://github.com/FerretCode/locomotive)
-2. 🔒 Closed issue [#18](https://github.com/FerretCode/locomotive/issues/18) in [FerretCode/locomotive](https://github.com/FerretCode/locomotive)
-3. 🗣 Commented on [#11](https://github.com/MykalMachon/railway-grafana-stack/issues/11#issuecomment-2730545242) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-4. 🗣 Commented on [#8](https://github.com/MykalMachon/railway-grafana-stack/issues/8#issuecomment-2727654044) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+1. 🎉 Merged PR [#25](https://github.com/UFV-ITS/MyUFV-Design-System/pull/25) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+2. 💪 Opened PR [#25](https://github.com/UFV-ITS/MyUFV-Design-System/pull/25) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+3. ❌ Closed PR [#21](https://github.com/UFV-ITS/MyUFV-Design-System/pull/21) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
+4. 🎉 Merged PR [#24](https://github.com/UFV-ITS/MyUFV-Design-System/pull/24) in [UFV-ITS/MyUFV-Design-System](https://github.com/UFV-ITS/MyUFV-Design-System)
 5. 🔒 Closed issue [#8](https://github.com/MykalMachon/railway-grafana-stack/issues/8) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
