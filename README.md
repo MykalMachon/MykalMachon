@@ -11,8 +11,8 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/MykalMachon/railway-grafana-stack/pull/13) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-2. 🗣 Commented on [#13](https://github.com/MykalMachon/railway-grafana-stack/pull/13#issuecomment-3141763245) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+1. 🎉 Merged PR [#122](https://github.com/MykalMachon/mykal.codes/pull/122) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
+2. 💪 Opened PR [#122](https://github.com/MykalMachon/mykal.codes/pull/122) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 3. 🎉 Merged PR [#121](https://github.com/MykalMachon/mykal.codes/pull/121) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 4. 💪 Opened PR [#121](https://github.com/MykalMachon/mykal.codes/pull/121) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
 5. 🎉 Merged PR [#120](https://github.com/MykalMachon/mykal.codes/pull/120) in [MykalMachon/mykal.codes](https://github.com/MykalMachon/mykal.codes)
