@@ -11,10 +11,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
-2. ❌ Assigned PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
-3. 💪 Opened PR [#1](undefined) in [UFV-ITS/.github](https://github.com/UFV-ITS/.github)
-4. 🗣 Commented on [#1](https://github.com/MykalMachon/oura-mcp/pull/1#issuecomment-3332373092) in [MykalMachon/oura-mcp](https://github.com/MykalMachon/oura-mcp)
+1. 🔒 Closed issue [#1](https://github.com/MykalMachon/atbots/issues/1) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
+2. 🗣 Commented on [#35](https://github.com/1Password/developer-community-projects/pull/35#issuecomment-3466211573) in [1Password/developer-community-projects](https://github.com/1Password/developer-community-projects)
+3. 💪 Opened PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
+4. ❌ Assigned PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
 5. 🗣 Commented on [#17](https://github.com/MykalMachon/railway-grafana-stack/issues/17#issuecomment-3271813342) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
