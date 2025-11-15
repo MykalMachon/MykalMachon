@@ -11,11 +11,11 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/MykalMachon/atbots/issues/1) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
-2. 🗣 Commented on [#35](https://github.com/1Password/developer-community-projects/pull/35#issuecomment-3466211573) in [1Password/developer-community-projects](https://github.com/1Password/developer-community-projects)
-3. 💪 Opened PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
-4. ❌ Assigned PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
-5. 🗣 Commented on [#17](https://github.com/MykalMachon/railway-grafana-stack/issues/17#issuecomment-3271813342) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+1. ❌ Closed PR [#19](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+2. 🗣 Commented on [#19](https://github.com/MykalMachon/railway-grafana-stack/pull/19#issuecomment-3536110939) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+3. 🔒 Closed issue [#1](https://github.com/MykalMachon/atbots/issues/1) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
+4. 🗣 Commented on [#35](https://github.com/1Password/developer-community-projects/pull/35#issuecomment-3466211573) in [1Password/developer-community-projects](https://github.com/1Password/developer-community-projects)
+5. 💪 Opened PR [#9](undefined) in [MykalMachon/FormStore](https://github.com/MykalMachon/FormStore)
 <!--END_SECTION:activity-->
 
 ## Top Languages
