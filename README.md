@@ -5,9 +5,6 @@ I help build, maintain, and support a whole bunch of our web applications, integ
 
 On weekends, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
 
-## GitHub Stats
-![MykalMachon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykalMachon&show_icons=true&theme=dark)
-
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
@@ -18,5 +15,3 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 5. ❗ Opened issue [#924](https://github.com/railwayapp/docs/issues/924) in [railwayapp/docs](https://github.com/railwayapp/docs)
 <!--END_SECTION:activity-->
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykalMachon&layout=compact&theme=dark)
