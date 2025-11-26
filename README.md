@@ -11,11 +11,11 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#924](https://github.com/railwayapp/docs/issues/924) in [railwayapp/docs](https://github.com/railwayapp/docs)
-2. ❌ Closed PR [#19](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-3. 🗣 Commented on [#19](https://github.com/MykalMachon/railway-grafana-stack/pull/19#issuecomment-3536110939) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-4. 🔒 Closed issue [#1](https://github.com/MykalMachon/atbots/issues/1) in [MykalMachon/atbots](https://github.com/MykalMachon/atbots)
-5. 🗣 Commented on [#35](https://github.com/1Password/developer-community-projects/pull/35#issuecomment-3466211573) in [1Password/developer-community-projects](https://github.com/1Password/developer-community-projects)
+1. ❌ Closed PR [#22](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+2. 🗣 Commented on [#22](https://github.com/MykalMachon/railway-grafana-stack/pull/22#issuecomment-3576086764) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+3. ❗ Opened issue [#924](https://github.com/railwayapp/docs/issues/924) in [railwayapp/docs](https://github.com/railwayapp/docs)
+4. ❌ Closed PR [#19](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+5. 🗣 Commented on [#19](https://github.com/MykalMachon/railway-grafana-stack/pull/19#issuecomment-3536110939) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
 ## Top Languages
