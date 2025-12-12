@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-2. 🗣 Commented on [#25](https://github.com/MykalMachon/railway-grafana-stack/pull/25#issuecomment-3643873355) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-3. ❌ Closed PR [#25](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-4. ❌ Merged PR [#931](undefined) in [railwayapp/docs](https://github.com/railwayapp/docs)
-5. 🗣 Commented on [#931](https://github.com/railwayapp/docs/pull/931#issuecomment-3591049531) in [railwayapp/docs](https://github.com/railwayapp/docs)
+1. 💪 Opened PR [#1](undefined) in [MykalMachon/railway-prometheus-exporter](https://github.com/MykalMachon/railway-prometheus-exporter)
+2. ❌ Closed PR [#24](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+3. 🗣 Commented on [#25](https://github.com/MykalMachon/railway-grafana-stack/pull/25#issuecomment-3643873355) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+4. ❌ Closed PR [#25](undefined) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+5. ❌ Merged PR [#931](undefined) in [railwayapp/docs](https://github.com/railwayapp/docs)
 <!--END_SECTION:activity-->
 
