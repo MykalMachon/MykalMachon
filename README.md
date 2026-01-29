@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MykalMachon/shlink-on-railway/issues/2#issuecomment-3786411363) in [MykalMachon/shlink-on-railway](https://github.com/MykalMachon/shlink-on-railway)
-2. ❗ Opened issue [#2](https://github.com/MykalMachon/shlink-on-railway/issues/2) in [MykalMachon/shlink-on-railway](https://github.com/MykalMachon/shlink-on-railway)
-3. 🗣 Commented on [#20](https://github.com/MykalMachon/railway-grafana-stack/pull/20#issuecomment-3687256582) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-4. ❌ Closed PR [#20](https://github.com/MykalMachon/railway-grafana-stack/pull/20) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-5. 🗣 Commented on [#21](https://github.com/MykalMachon/railway-grafana-stack/pull/21#issuecomment-3687255594) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+1. 🗣 Commented on [#30](https://github.com/MykalMachon/railway-grafana-stack/pull/30#issuecomment-3815495245) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+2. 🗣 Commented on [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31#issuecomment-3815481099) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+3. 🎉 Merged PR [#32](https://github.com/MykalMachon/railway-grafana-stack/pull/32) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+4. 🔒 Closed issue [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+5. 🗣 Commented on [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31#issuecomment-3815471143) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
