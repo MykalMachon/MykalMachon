@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/MykalMachon/railway-grafana-stack/pull/30#issuecomment-3815495245) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-2. 🗣 Commented on [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31#issuecomment-3815481099) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-3. 🎉 Merged PR [#32](https://github.com/MykalMachon/railway-grafana-stack/pull/32) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-4. 🔒 Closed issue [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-5. 🗣 Commented on [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31#issuecomment-3815471143) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+1. 🎉 Merged PR [#3](https://github.com/TinyboxSoftware/gauge/pull/3) in [TinyboxSoftware/gauge](https://github.com/TinyboxSoftware/gauge)
+2. 💪 Opened PR [#3](https://github.com/TinyboxSoftware/gauge/pull/3) in [TinyboxSoftware/gauge](https://github.com/TinyboxSoftware/gauge)
+3. 🗣 Commented on [#30](https://github.com/MykalMachon/railway-grafana-stack/pull/30#issuecomment-3815495245) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+4. 🗣 Commented on [#31](https://github.com/MykalMachon/railway-grafana-stack/issues/31#issuecomment-3815481099) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
+5. 🎉 Merged PR [#32](https://github.com/MykalMachon/railway-grafana-stack/pull/32) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
