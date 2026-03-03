@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TinyboxSoftware/turnstile/pull/2) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-2. ℹ️ Assigned PR [#2](https://github.com/TinyboxSoftware/turnstile/pull/2) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-3. 🗣 Commented on [#2](https://github.com/TinyboxSoftware/turnstile/pull/2#issuecomment-3982490636) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-4. 🗣 Commented on [#2](https://github.com/TinyboxSoftware/turnstile/pull/2#issuecomment-3981621497) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-5. 💪 Opened PR [#2](https://github.com/TinyboxSoftware/turnstile/pull/2) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+1. ℹ️ Labeled issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+2. ❗ Opened issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+3. ℹ️ Assigned issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+4. 🎉 Merged PR [#2](https://github.com/TinyboxSoftware/turnstile/pull/2) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+5. ℹ️ Assigned PR [#2](https://github.com/TinyboxSoftware/turnstile/pull/2) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
 <!--END_SECTION:activity-->
 
