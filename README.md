@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/MykalMachon/railway-grafana-stack/pull/34) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
-2. 💪 Opened PR [#4](https://github.com/TinyboxSoftware/turnstile/pull/4) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-3. ℹ️ Labeled issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-4. ❗ Opened issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
-5. ℹ️ Assigned issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+1. 🎉 Merged PR [#4](https://github.com/TinyboxSoftware/turnstile/pull/4) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+2. 🔒 Closed issue [#3](https://github.com/TinyboxSoftware/turnstile/issues/3) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+3. 🎉 Merged PR [#5](https://github.com/TinyboxSoftware/turnstile/pull/5) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+4. 💪 Opened PR [#5](https://github.com/TinyboxSoftware/turnstile/pull/5) in [TinyboxSoftware/turnstile](https://github.com/TinyboxSoftware/turnstile)
+5. ❌ Closed PR [#34](https://github.com/MykalMachon/railway-grafana-stack/pull/34) in [MykalMachon/railway-grafana-stack](https://github.com/MykalMachon/railway-grafana-stack)
 <!--END_SECTION:activity-->
 
