@@ -8,10 +8,10 @@ On weekends, I take on freelance full-stack web-dev work through [Tinybox](https
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/MykalMachon/mykalmachon.com/pull/125) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
-2. 💪 Opened PR [#125](https://github.com/MykalMachon/mykalmachon.com/pull/125) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
-3. 🎉 Merged PR [#124](https://github.com/MykalMachon/mykalmachon.com/pull/124) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
-4. 💪 Opened PR [#124](https://github.com/MykalMachon/mykalmachon.com/pull/124) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
-5. 🎉 Merged PR [#123](https://github.com/MykalMachon/mykalmachon.com/pull/123) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
+1. 🎉 Merged PR [#126](https://github.com/MykalMachon/mykalmachon.com/pull/126) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
+2. 🗣 Commented on [#126](https://github.com/MykalMachon/mykalmachon.com/pull/126#issuecomment-4249513263) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
+3. 💪 Opened PR [#126](https://github.com/MykalMachon/mykalmachon.com/pull/126) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
+4. 🎉 Merged PR [#125](https://github.com/MykalMachon/mykalmachon.com/pull/125) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
+5. 💪 Opened PR [#125](https://github.com/MykalMachon/mykalmachon.com/pull/125) in [MykalMachon/mykalmachon.com](https://github.com/MykalMachon/mykalmachon.com)
 <!--END_SECTION:activity-->
 
