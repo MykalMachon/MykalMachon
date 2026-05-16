@@ -1,9 +1,6 @@
 Hey, I'm Mykal 👋
 
-I'm a `Systems Analyst II` working on the Application Services Team at [UFV](https://ufv.ca). 
-I help build, maintain, and support a whole bunch of our web applications, integrations, and internal tools for students, staff, and faculty.
-
-On weekends, I take on freelance full-stack web-dev work through [Tinybox](https://tinybox.dev).
+I'm [a Support Engineer at Railway](https://railway.com) 🚄 - that means I build tools and systems to reduce friction for our users + team. It's pretty sweet! 
 
 ## Recent Activity 🚀
 
