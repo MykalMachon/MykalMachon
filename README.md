@@ -1,6 +1,8 @@
-Hey, I'm Mykal 👋
+## Hey, I'm Mykal 👋
 
-I'm [a Support Engineer at Railway](https://railway.com) 🚄 - that means I build tools and systems to reduce friction for our users + team. It's pretty sweet! 
+I'm [a Support Engineer at Railway](https://railway.com) 🚄 - 
+
+I build tools and systems to reduce friction for our users and the team. It's pretty sweet! 
 
 ## Recent Activity 🚀
 
