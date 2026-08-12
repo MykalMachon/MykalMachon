@@ -7,10 +7,10 @@ I build tools and systems to reduce friction for our users and the team. It's pr
 ## Recent Activity 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1283](https://github.com/railwayapp/docs/pull/1283) in [railwayapp/docs](https://github.com/railwayapp/docs)
-2. 💪 Opened PR [#1283](https://github.com/railwayapp/docs/pull/1283) in [railwayapp/docs](https://github.com/railwayapp/docs)
-3. ❌ Closed PR [#1046](https://github.com/railwayapp/docs/pull/1046) in [railwayapp/docs](https://github.com/railwayapp/docs)
-4. 🎉 Merged PR [#62](https://github.com/railwayapp/railway-ts-sdk/pull/62) in [railwayapp/railway-ts-sdk](https://github.com/railwayapp/railway-ts-sdk)
-5. ℹ️ Labeled PR [#62](https://github.com/railwayapp/railway-ts-sdk/pull/62) in [railwayapp/railway-ts-sdk](https://github.com/railwayapp/railway-ts-sdk)
+1. 🗣 Commented on [#810](https://github.com/privatenumber/tsx/issues/810#issuecomment-5256959915) in [privatenumber/tsx](https://github.com/privatenumber/tsx)
+2. 💪 Opened PR [#830](https://github.com/privatenumber/tsx/pull/830) in [privatenumber/tsx](https://github.com/privatenumber/tsx)
+3. 🎉 Merged PR [#1283](https://github.com/railwayapp/docs/pull/1283) in [railwayapp/docs](https://github.com/railwayapp/docs)
+4. 💪 Opened PR [#1283](https://github.com/railwayapp/docs/pull/1283) in [railwayapp/docs](https://github.com/railwayapp/docs)
+5. ❌ Closed PR [#1046](https://github.com/railwayapp/docs/pull/1046) in [railwayapp/docs](https://github.com/railwayapp/docs)
 <!--END_SECTION:activity-->
 
